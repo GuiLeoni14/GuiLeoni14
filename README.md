@@ -10,9 +10,9 @@
   <img align="center" alt="gui-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gui-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gui-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gui-React" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="gui-Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
-  <img align="center" alt="gui-Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="gui-React" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="gui-Django" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
+  <img align="center" alt="gui-Vue" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
 </div>
   
   ##
