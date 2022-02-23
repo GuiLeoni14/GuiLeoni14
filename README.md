@@ -1,4 +1,4 @@
-### Olá! me chamo Guilherme, sou um garoto apaixonado por programação e tecnologia!🙌❤️
+### Olá! Me chamo Guilherme, sou um garoto apaixonado por programação e tecnologia!🙌❤️
 ### Seja bem vindo ao meu santuário tecnológico!😉❤
 <div align="center">
   <a href="https://github.com/GuiLeoni14">
