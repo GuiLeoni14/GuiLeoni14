@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLeoni14&layout=compact&langs_count=20&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="gui-Nextjs" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="gui-React" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="gui-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gui-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
