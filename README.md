@@ -2,8 +2,8 @@
 ### Seja bem vindo ao meu santuário tecnológico!😉❤
 <div align="center">
   <a href="https://github.com/GuiLeoni14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiLeoni14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLeoni14&layout=compact&langs_count=20&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guileoni14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guileoni14&layout=compact&langs_count=20&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="gui-Nextjs" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
